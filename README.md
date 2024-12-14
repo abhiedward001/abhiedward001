@@ -7,7 +7,7 @@ I am a **MERN Stack Developer** with expertise in building robust and scalable w
 
 ## 🔭 Work Experience
 
-### **Founding Engineer (SDE-1)** at [HealthFlex](https://healthflex.app)  
+### **Founding Engineer (SDE-1)** at [HealthFlex](https://www.healthflex.in/about-us.html)  
 _Bangalore, India • April 2024 – Present_  
 - Led the development of **Patient and Doctor apps** with optimized algorithms and complex business logic for a seamless user experience.
 - Enhanced **Bluetooth Low Energy (BLE)** integration, improving regimen screen render times from **500ms to 80ms**.
