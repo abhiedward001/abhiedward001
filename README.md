@@ -1,13 +1,22 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:f093fb&height=150&text=ABHISHEK%20JAISWAL&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Architect%20%7C%20Mobile%20Performance%20Engineer&descSize=16&descAlignY=75&animation=fadeIn)</div>
-
 <div align="center">
-  
-<!-- Holographic Name Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+FULL+STACK+DEVELOPER;⚡+MOBILE+PERFORMANCE+WIZARD;🎯+SCALABLE+ARCHITECTURE+EXPERT">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=667EEA&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+FULL+STACK+DEVELOPER;⚡+MOBILE+PERFORMANCE+WIZARD;🎯+SCALABLE+ARCHITECTURE+EXPERT">
-  <img alt="Typing Animation" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+FULL+STACK+DEVELOPER;⚡+MOBILE+PERFORMANCE+WIZARD;🎯+SCALABLE+ARCHITECTURE+EXPERT">
-</picture>
+
+<!-- Animated Holographic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&animation=twinkling&fontColor=ffffff" />
+
+<!-- Animated Name with Glitch Effect -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2000&pause=500&color=F85D7F&background=0D111700&center=true&vCenter=true&width=800&height=80&lines=ABHISHEK+JAISWAL;💻+ABHISHEK+JAISWAL+💻;🚀+ABHISHEK+JAISWAL+🚀;⚡+ABHISHEK+JAISWAL+⚡" />
+</div>
+
+<!-- Animated Role Description -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Full+Stack+Architect+%7C+Performance+Engineer;Mobile+App+Optimization+Specialist;React+Native+%26+React.js+Expert;Building+Scalable+Solutions+%40+Fleek;Mentoring+Engineers+%7C+System+Designer" />
+</div>
+
+<!-- Dynamic Role Carousel -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=4000&pause=1500&color=764ba2&background=0D111700&center=true&vCenter=true&width=800&height=60&lines=🔥+12s+→+4s+Performance+Optimization;⚡+React+Native+Performance+Wizard;🎯+Scalable+Architecture+Expert;💡+Smart+Pricing+Engine+Creator;👨‍🏫+Engineering+Team+Mentor;🚀+Mobile+App+Innovation+Leader" />
+</div>
 
 <!-- Futuristic Badges with Glow Effect -->
 <p align="center">
@@ -520,14 +529,51 @@ class SkillMatrix {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Let's%20build%20the%20future%20together%20🚀&descAlignY=85&descSize=16" />
 
 <!-- Matrix Digital Rain Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1000&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=50&lines=01001000+01100101+01101100+01101100+01101111+00100000+01010111+01101111+01110010+01101100+01100100;Thank+you+for+visiting+my+digital+realm;Let's+connect+and+build+amazing+things+together!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&height=60&lines=Hello+World+%7C+Binary%3A+01001000+01100101+01101100+01101100+01101111;Thank+you+for+exploring+my+digital+universe;Ready+to+collaborate%3F+Let's+build+something+amazing!" />
 
+<br>
+
+<!-- Social Links Footer -->
+<table>
+<tr>
+<td align="center">
+<a href="mailto:iam001abhi@gmail.com">
+<img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="https://linkedin.com/in/abhishek-jaiswal">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/abhiedward001">
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="tel:+917388552907">
+<img src="https://img.shields.io/badge/-Phone-green?style=flat-square&logo=whatsapp&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Final Message -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=2000&color=667EEA&center=true&vCenter=true&width=600&lines=🚀+Innovation+Never+Sleeps;⚡+Performance+is+Everything;🎯+Building+Tomorrow's+Solutions" />
+
+<br><br>
+
+<!-- Copyright with style -->
+<div align="center">
+<img src="https://img.shields.io/badge/Made_with-💜_and_⚡-purple?style=for-the-badge&labelColor=black" />
+<br>
+<sub><b>© 2025 Abhishek Jaiswal | Full Stack Architect | Performance Engineer</b></sub>
 </div>
 
-<!-- Invisible Tracking Pixel -->
+<!-- Visitor Counter -->
 <img src="https://visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabhiedward001&countColor=%23263759" width="0" height="0" />
 
-<!-- Copyright -->
-<div align="center">
-<sub>© 2025 Abhishek Jaiswal • Crafted with 💜 and ⚡</sub>
 </div>
