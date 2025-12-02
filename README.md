@@ -9,7 +9,7 @@
 A performance‑focused developer who loves building fast, scalable, visually polished apps.
 
 📞 +91‑7388552907 • ✉️ [iam001abhi@gmail.com](mailto:iam001abhi@gmail.com)
-🌐 [GitHub](https://github.com/abhiedward001) • 🔗 LinkedIn • 🧩 [LeetCode](https://leetcode.com/u/iam001abhi/)
+🌐 [GitHub](https://github.com/abhiedward001) • 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-jaiswal-b67296191/) • 🧩 [LeetCode](https://leetcode.com/u/iam001abhi/)
 
 </div>
 
